@@ -2,4 +2,5 @@
 
 ## Metro.gorod 
 
-[![Foo](https://github.com/promops/promops/blob/master/images/metro_preview.png)](https://raw.githubusercontent.com/promops/promops/master/images/creator.png)
+
+<a href="https://raw.githubusercontent.com/promops/promops/master/images/creator.png"><img src="https://raw.githubusercontent.com/promops/promops/master/images/metro_preview.png" width="250"></a>
