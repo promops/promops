@@ -10,6 +10,9 @@
 
 ## Flutter Pretty Qr package
 
+<a href="https://pub.dev/packages/pretty_qr_code"><img src="https://raw.githubusercontent.com/promops/promops/master/images/qr_image.png" width="250"></a>
+
 [pub.dev](https://pub.dev/packages/pretty_qr_code)
+
 
 
